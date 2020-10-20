@@ -1,0 +1,22 @@
+
+# No Redux - State Management using react context and hooks
+  Use case - JIRA(react-sweet-state), Innovaccer(micro front-ends), Jabong(Performance)
+
+  redux, react-redux, redux-saga, redux-thunk, axios, react-router, connected-react-router, ui-lib, poly-fills
+
+
+# Single Store vs Multiple Store: Multiple Store is not bad
+
+# Breaking last monolithic - Micro frontends
+    - Bounded Context
+    - Benefits: Incremental Updates, Independent Deployment, Decoupled Codebases, Independent teams
+    - Integration: Server side templeting, npm modules(build time), iframe, js, web components
+    - inter app communications
+
+# Mono Repo - Microsoft Search Component
+
+
+# Demo 1: Micro Front ends
+# Demo 2: Complex State Management
+
+# Comicgen

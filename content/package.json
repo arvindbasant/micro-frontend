@@ -1,0 +1,16 @@
+{
+  "name": "@micro-frontend/content",
+  "version": "1.0.0",
+  "description": "Static content for a micro frontends",
+  "author": "arvind kumar <arvindbasant@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve --port 7000 --cors static"
+  },
+  "devDependencies": {
+    "serve": "^6.5.2"
+  },
+  "dependencies": {
+    "comicgen": "^0.1.5"
+  }
+}
